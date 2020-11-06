@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[]args){
-        HelloWorld h = new HelloWorld();
-        h.printHello();
+        HelloWorld hi = new HelloWorld();
+        hi.printHello();
     }
 }
