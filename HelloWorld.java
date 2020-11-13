@@ -1,12 +1,12 @@
- public class HelloWorld {
+public class HelloWorld {
 
     String text;
 
-     public HelloWorld() {
-        this.text = "Hello";
-     }
+    public HelloWorld() {
+        this.text = "Helloo";
+    }
 
-     public void printHello() {
-         System.out.println(text);
-     }
- }
+    public void printHello() {
+        System.out.println(text);
+    }
+}
