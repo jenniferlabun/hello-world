@@ -3,7 +3,7 @@ public class HelloWorld {
     String text;
 
     public HelloWorld() {
-        this.text = "Helloo";
+        this.text = "Hello";
     }
 
     public void printHello() {
